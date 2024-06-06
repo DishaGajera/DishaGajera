@@ -25,9 +25,6 @@ I'm a dedicated **Software Engineer** with a strong focus on **Frontend Developm
   - **Maximizing Enrollment**: Predictive application for targeted marketing campaigns using U.S. Census Bureau data.
   - **PriceDrop Notifier**: MERN stack web app for real-time notifications of Amazon product price drops.
 
-### 📈 GitHub Stats
-![Disha's GitHub stats](https://github-readme-stats.vercel.app/api?username=DishaGajera&show_icons=true&theme=radical)
-
 ### 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DishaGajera&layout=compact&theme=radical)
 
