@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Disha Gajera
 
-I'm a dedicated **Software Engineer** with a strong focus on **Frontend Development** and **Full Stack Development**. Currently, I'm pursuing my Master's degree in Computer Science at Arizona State University and working as a Frontend Web Developer Intern at the American Dog Society..
+I'm a dedicated **Software Engineer** with a strong focus on **Frontend Development** and **Full Stack Development**. Currently, I'm pursuing my Master's degree in Computer Science at Arizona State University and working as a Frontend Web Developer Intern at the American Dog Society.
 
 - 🔭 I’m currently working on a dynamic flight booking platform using the MERN stack.
 - 🌱 I’m currently learning advanced frontend technologies and improving my full stack development skills.
