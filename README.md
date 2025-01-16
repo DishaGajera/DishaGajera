@@ -16,7 +16,7 @@ I'm a dedicated **Software Engineer** with a strong focus on **Frontend Developm
 - **Portfolio:** [dishagajera.github.io](https://dishagajera.github.io/)
 - **LinkedIn:** [linkedin.com/in/disha-gajera](https://www.linkedin.com/in/disha-gajera/)
 - **Education:**
-  - Master's in Computer Science, Arizona State University (CGPA: 3.75/4.00)
+  - Master's in Computer Science, Arizona State University (CGPA: 3.83/4.00)
   - Bachelor's in Information Technology, Atmiya Institute of Technology & Science (CGPA: 8.78/10)
 - **Skills:** Python, Java, C++, .NET, ReactJS, NodeJS, MongoDB, SQL, Power BI, Tableau, Azure, AWS, Kubernetes
 - **Notable Projects:**
