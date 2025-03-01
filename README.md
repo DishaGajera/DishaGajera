@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Disha Gajera
 
-I'm a dedicated **Software Engineer** with a strong focus on **Frontend Development** and **Full Stack Development**. Currently, I'm pursuing my Master's degree in Computer Science at Arizona State University and working as a Frontend Web Developer Intern at the American Dog Society.
+Software Engineer with **2.5+ years of full - time experience** in developing scalable web applications. Master’s in Computer Science. Proficient in **Python, and JavaScript, with expertise in .NET, OOP, web development, RESTful APIs, microservices, cloud services, and database management**.
 
 - 🔭 I’m currently working on a dynamic flight booking platform using the MERN stack.
 - 🌱 I’m currently learning advanced frontend technologies and improving my full stack development skills.
@@ -16,9 +16,9 @@ I'm a dedicated **Software Engineer** with a strong focus on **Frontend Developm
 - **Portfolio:** [dishagajera.github.io](https://dishagajera.github.io/)
 - **LinkedIn:** [linkedin.com/in/disha-gajera](https://www.linkedin.com/in/disha-gajera/)
 - **Education:**
-  - Master's in Computer Science, Arizona State University (CGPA: 3.83/4.00)
+  - Master's in Computer Science, Arizona State University (CGPA: 3.70/4.00)
   - Bachelor's in Information Technology, Atmiya Institute of Technology & Science (CGPA: 8.78/10)
-- **Skills:** Python, Java, C++, .NET, ReactJS, NodeJS, MongoDB, SQL, Power BI, Tableau, Azure, AWS, Kubernetes
+- **Skills:** Python, .Net MVC, Java, C++, ReactJS, NodeJS, MongoDB, SQL, PostgreSQL Power BI, Tableau, Azure, AWS, Kubernetes
 - **Notable Projects:**
   - **Neural Network for Collision Prediction**: Improved collision prediction accuracy by 20%.
   - **Expedia Flight Booker**: A dynamic flight booking platform with real-time updates and secure payments.
