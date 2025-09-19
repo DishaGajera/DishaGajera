@@ -23,10 +23,6 @@ Software Engineer with **2+ years of full-time experience** in developing scalab
   - **PriceDrop Notifier**: MERN stack web app for real-time notifications of Amazon product price drops.
   - **Maximizing Enrollment**: Predictive application for targeted marketing campaigns using U.S. Census Bureau data.
 
-
-### 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DishaGajera&layout=compact&theme=radical)
-
 ---
 
 Feel free to reach out to me for any collaboration or queries. Let's connect and create something amazing together!
