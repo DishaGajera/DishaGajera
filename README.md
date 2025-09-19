@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Disha Gajera
 
-Software Engineer with **2.5+ years of full-time experience** in developing scalable web applications. **Master’s in Computer Science.** Proficient in Python, JavaScript, React, Express.js, MongoDB, Node.js, and Object-Oriented Programming (OOP), with expertise in web development, RESTful APIs, microservices, cloud services, and database management.
+Software Engineer with **2+ years of full-time experience** in developing scalable web applications. **Master’s in Computer Science.** Proficient in Python, .Net, JavaScript, React, Express.js, MongoDB, Node.js, and Object-Oriented Programming (OOP), with expertise in web development, RESTful APIs, microservices, cloud services, and database management.
 
 - 🌱 I’m currently learning advanced frontend technologies, improving my full stack development skills, and getting hands-on with cloud and DevOps tools like AWS, Docker, and Kubernetes to build and deploy scalable applications.
 - 👯 I’m looking to collaborate on innovative software projects and open-source contributions.
@@ -20,7 +20,6 @@ Software Engineer with **2.5+ years of full-time experience** in developing scal
 - **Skills:** Python, .Net MVC, Java, C++, ReactJS, NodeJS, MongoDB, SQL, PostgreSQL Power BI, Tableau, Azure, AWS, Kubernetes
 - **Notable Projects:**
   - **Neural Network for Collision Prediction**: Improved collision prediction accuracy by 20%.
-  - **Expedia Flight Booker**: A dynamic flight booking platform with real-time updates and secure payments.
   - **PriceDrop Notifier**: MERN stack web app for real-time notifications of Amazon product price drops.
   - **Maximizing Enrollment**: Predictive application for targeted marketing campaigns using U.S. Census Bureau data.
 
