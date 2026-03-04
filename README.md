@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Disha Gajera
 
-Software Engineer with **2+ years of full-time experience** in developing scalable web applications. **Master’s in Computer Science.** Proficient in Python, .Net, JavaScript, React, Express.js, MongoDB, Node.js, and Object-Oriented Programming (OOP), with expertise in web development, RESTful APIs, microservices, cloud services, and database management.
+Software Engineer with **3+ years of full-time experience** in developing scalable web applications. **Master’s in Computer Science.** Proficient in Python, .Net, JavaScript, React, Express.js, MongoDB, Node.js, and Object-Oriented Programming (OOP), with expertise in web development, RESTful APIs, microservices, cloud services, and database management.
 
 - 🌱 I’m currently learning advanced frontend technologies, improving my full stack development skills, and getting hands-on with cloud and DevOps tools like AWS, Docker, and Kubernetes to build and deploy scalable applications.
 - 👯 I’m looking to collaborate on innovative software projects and open-source contributions.
