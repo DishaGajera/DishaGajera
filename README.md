@@ -1,14 +1,12 @@
 ### 👋 Hi, I'm Disha Gajera
 
-Software Engineer with **3 years of full-time experience** in developing scalable web applications. **Master’s in Computer Science.** Proficient in Python, .Net, JavaScript, React, Express.js, MongoDB, Node.js, and Object-Oriented Programming (OOP), with expertise in web development, RESTful APIs, microservices, cloud services, and database management.
+Software Engineer with 3 years of full-time experience building scalable web applications and backend systems. Master’s in Computer Science. Proficient in Python, JavaScript, React, Express.js, MongoDB, Node.js, and Object-Oriented Programming (OOP), with expertise in web development, RESTful APIs, microservices, cloud services, and database management. Currently expanding skills in AI/LLM development, working with frameworks like LangChain, and integrating intelligent systems into modern full-stack applications.
 
-- I’m currently learning advanced frontend technologies, improving my full stack development skills, and getting hands-on with cloud and DevOps tools like AWS, Docker, and Kubernetes to build and deploy scalable applications.
-- I’m looking to collaborate on innovative software projects and open-source contributions.
-- I’m looking for help with optimizing web application performance and user experience.
-- Ask me about software engineering, full stack development, and frontend technologies.
-- How to reach me: [dishagajera03@gmail.com](mailto:dishagajera03@gmail.com)
-- Pronouns: She/Her
-- Fun fact: In my free time, I love playing sports, especially Pickleball, and I enjoy cooking food.
+I’m currently focused on expanding my skills in AI and LLM development, working with frameworks like LangChain, and building intelligent applications powered by modern models. Alongside that, I’m improving my full-stack development skills and gaining hands-on experience with cloud and DevOps tools like AWS, Docker, and Kubernetes to build and deploy scalable applications.
+
+I’m looking for help with optimizing application performance, user experience, and building reliable AI-powered systems.
+
+Ask me about software engineering, AI/LLMs, full-stack development.
 
 ### About Me
 - **Location:** Seattle, WA
